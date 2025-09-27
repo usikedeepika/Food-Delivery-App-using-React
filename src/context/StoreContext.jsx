@@ -29,13 +29,31 @@ const StoreContextProvider= (props)=>{
        }
 
 
+       const getTotalCartAmount=()=>
+        {
+          
+        let TotalAmount=0;
+          
+        for(const item in cartItems){
+              
+            if(cartItems[item]>0){
+
+                let itemInfo=food_list.find((product)=>product._id===item)
+
+                TotalAmount+=itemInfo.price*cartItems[item];
+            }
+        }
+        return TotalAmount;
+       }
+
 
         const contextvalue={
             food_list,
             cartItems,
             setCartItems,
             addToCart,
-            removeFromCart
+            removeFromCart,
+            getTotalCartAmount
        }
 
        return (
