@@ -1,16 +1,22 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## React Compiler
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+<img width="1920" height="1080" alt="Screenshot (96)" src="https://github.com/user-attachments/assets/edb0bc60-38b1-4e4d-93fd-b531d90346ce" />
+<img width="1920" height="1080" alt="Screenshot (88)" src="https://github.com/user-attachments/assets/3ed8cff1-69b4-45e3-844a-b9c5bfff7be1" />
+<img width="1920" height="1080" alt="Screenshot (89)" src="https://github.com/user-attachments/assets/da19244e-b897-4b21-aaa0-bcfd6a5588ae" />
+<img width="1920" height="1080" alt="Screenshot (90)" src="https://github.com/user-attachments/assets/edf41b47-e451-4bda-bbf9-5b63dd7e3d2e" />
+<img width="1920" height="1080" alt="Screenshot (91)" src="https://github.com/user-attachments/assets/d2b39bf5-6eff-47ee-b469-07a4c505fe58" />
 
-## Expanding the ESLint configuration
+<img width="1920" height="1080" alt="Screenshot (92)" src="https://github.com/user-attachments/assets/7584ad85-d0ca-4cff-b2a8-447cc611670e" />
+<img width="1920" height="1080" alt="Screenshot (93)" src="https://github.com/user-attachments/assets/8aef1d36-7c14-4c06-8eda-6f743e28e30d" />
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<img width="1920" height="1080" alt="Screenshot (94)" src="https://github.com/user-attachments/assets/5e328a27-c8d6-48ca-bd03-710ded0fc104" />
+
+<img width="1920" height="1080" alt="Screenshot (95)" src="https://github.com/user-attachments/assets/7fe56706-d826-4ec8-938e-edd10715c5b2" />
+
+<img width="1920" height="1080" alt="Screenshot (96)" src="https://github.com/user-attachments/assets/c69b8c1b-fdc7-4d94-91a8-47e148205849" />
+
+
+
