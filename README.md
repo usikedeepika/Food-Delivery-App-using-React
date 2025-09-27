@@ -1,4 +1,7 @@
 
+## 🌐 Live Project
+Live URL: **[https://app.netlify.com/projects/fooddeliveryappdeep/deploys/](https://app.netlify.com/projects/fooddeliveryappdeep/deploys/)**
+
 
 
 
